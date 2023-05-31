@@ -31,7 +31,7 @@ This Othello bot has the following main features:
 
 ## How to Use
 
-- Search for the bot's username in the Telegram application (e.g., @BlackWhiteChessBot).
+- Click (https://t.me/chenyuweibot).
 - Enter /start to start the chat.
 - When making a move, enter the coordinates of the chessboard to specify your desired position (e.g., 2,4 indicates making a move in the second column and fourth row).
 
