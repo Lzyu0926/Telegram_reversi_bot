@@ -2,14 +2,14 @@
 This is a Othello bot built using the Python Telegram Bot package. Through the Telegram messaging platform, we can quickly promote the culture of Othello and provide a convenient platform for players to compete and enjoy this strategic game.
 
 ## Technology Choices
-#
+
 To implement this Othello bot, I chose the powerful Python Telegram Bot package. Here are the reasons behind my technology choices:
 
 - Python Language: Python is a concise, readable, and feature-rich language that is ideal for rapid application development. It has a vast ecosystem of third-party libraries and packages, enabling us to easily build bots and handle the Telegram API.
 - Python Telegram Bot package: This package provides a simple yet robust framework for developing Telegram bots. It offers features like handling user inputs, responding to messages, managing conversations, and more, allowing us to create a fully functional Othello bot with ease.
 - Telegram Platform: Telegram is a popular messaging app with a large user base. By creating a Othello bot on Telegram, we can leverage this platform to quickly promote the culture of the game and engage more people in playing and enjoying it.
 ## Project Features
-# 
+
 This Othello bot has the following main features:
 
 - Battle Mode: Users can initiate a Othello battle through commands. The bot creates a new game session and allows players to take turns playing against the computer.
