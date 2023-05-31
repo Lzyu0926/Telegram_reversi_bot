@@ -16,7 +16,7 @@ This Othello bot has the following main features:
 - Game Rules Explanation: The bot provides an explanation of the rules of Othello, helping new players quickly get started and understand the game's strategies.
 
 ## How to Creat Telegram Bot
-#
+
 1. Find @BotFather in telegram to apply a new Bot.
 2. Enter /newbot in @BotFather chatroom.
 3. Enter the Bot name you want. (The name must end with bot. ex: test_bot)
@@ -25,12 +25,12 @@ This Othello bot has the following main features:
 
 
 ## How to Use
-#
+
 - Search for the bot's username in the Telegram application (e.g., @BlackWhiteChessBot).
 - Enter /start to start the chat.
 - When making a move, enter the coordinates of the chessboard to specify your desired position (e.g., 2,4 indicates making a move in the second column and fourth row).
 ## Your Experience
-#
+
 Through this project, I had the opportunity to apply Python and the Telegram Bot package in a practical manner. It provided me with insights into developing a fully functional game application using a bot framework. I also learned more about the rules and strategies of Othello and experienced how to promote this game to a wider audience through the Telegram platform.
 
 The most interesting topic in the course for me ( ... )
