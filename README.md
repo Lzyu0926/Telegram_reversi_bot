@@ -35,7 +35,7 @@ This Othello bot has the following main features:
 - Enter /start to start the chat.
 - When making a move, enter the coordinates of the chessboard to specify your desired position (e.g., 2,4 indicates making a move in the second column and fourth row).
 
-## Your Experience
+##  Experience
 
 Through this project, I had the opportunity to apply Python and the Telegram Bot package in a practical manner. It provided me with insights into developing a fully functional game application using a bot framework. I also learned more about the rules and strategies of Othello and experienced how to promote this game to a wider audience through the Telegram platform.
 
